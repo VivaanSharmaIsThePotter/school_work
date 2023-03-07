@@ -1,0 +1,20 @@
+body{
+	background: aliceblue;
+}
+
+h1{
+	background: #67cebb;
+	padding: 15px;
+}
+
+h2{
+	background: #67cebb;
+	padding: 20px;
+	color: firebrick;
+}
+
+h3{
+	background: #67cebb;
+	padding: 30px;
+	color: gold;
+}
